@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
-// import ImageSlide from "./components/imageSlide/ImageSlide";
+import ImageSlide from "./components/imageSlide/ImageSlide";
 
 
 const Homepage = () => {
@@ -10,7 +10,7 @@ const Homepage = () => {
             <Header />
             <Hero />
 
-
+            <ImageSlide />
 
 
 
